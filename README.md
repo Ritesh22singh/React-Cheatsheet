@@ -1,5 +1,7 @@
 # React+TypeScript Cheatsheets
 
+# This is done by me for text perpose
+
 Cheatsheets for experienced React developers getting started with TypeScript
 
 ---
